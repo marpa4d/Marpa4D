@@ -1,16 +1,21 @@
-### Hi there 👋
+[![Header]()](link)
 
-<!--
-**Marpa3D/Marpa3D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Vacheslav 👋
+Golang, WebXR, C# & Unity developer (interactive experiences)
 
-Here are some ideas to get you started:
+<p align='center'>
+  <a href="https://t.me/Marpa3D">
+       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+   </a>
+   <a href="https://m.me/Marpa3D">
+       <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white"/>
+   </a>   
+<p align='center'>
+   📫The good old e-mail:🙂 <a href='mailto:genesis@marpa.su'>genesis@marpa.su</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Technical Stack
+*   Go / C# / Unity / Three.js / A-Frame
+*   Voice Assitants ( Yandex.Alice / Sber Salut / Google Assistant )/ DialogFlow
+*   MySQL, PostgreSQL
+*   Gin, Gia, Buffalo, Docker
