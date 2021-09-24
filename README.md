@@ -1,7 +1,7 @@
-[![Header](https://github.com/Marpa3D/Marpa3D/blob/main/assets/Marpa3D.mp4)](https://marpa.su)
-<!-- https://github.com/Marpa3D/Marpa3D/blob/main/assets/Marpa3D.gif  -->
+[![Header](https://github.com/Marpa3D/Marpa3D/blob/main/assets/Marpa3D.gif)](https://marpa.su)
+
 # Hi, I'm Vacheslav 👋
-Golang, WebXR, C# & Unity developer (interactive experiences)
+Golang, WebXR, Flutter,C# & Unity developer (interactive experiences)
 
 <p align='center'>
   <a href="https://t.me/Marpa3D">
@@ -16,6 +16,7 @@ Golang, WebXR, C# & Unity developer (interactive experiences)
 
 ## 🛠 Technical Stack
 *   Go / C# / Unity / Three.js / A-Frame
+*   Flutter / Dart
 *   Voice Assitants ( Yandex.Alice / Sber Salut / Google Assistant )/ DialogFlow
 *   MySQL, PostgreSQL
 *   Gin, Gia, Buffalo, Docker
