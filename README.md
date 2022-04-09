@@ -7,9 +7,7 @@ Golang, WebXR, Flutter, C# & Unity developer (interactive experiences)
   <a href="https://t.me/Marpa3D">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
-   <a href="https://m.me/Marpa3D">
-       <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white"/>
-   </a>   
+   
 <p align='center'>
    📫The good old e-mail:🙂 <a href='mailto:genesis@marpa.su'>genesis@marpa.su</a>
 </p>
