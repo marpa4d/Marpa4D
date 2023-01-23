@@ -13,8 +13,10 @@ Golang, WebXR, Flutter, C# & Unity developer (interactive experiences)
 </p>
 
 ## 🛠 Technical Stack
-*   Go / C# / Unity / Three.js / A-Frame
+*   Go / Rust
+*   C# / Unity
+*   Three.js / A-Frame
 *   Flutter / Dart
 *   Voice Assitants ( Yandex.Alice / Sber Salut / Google Assistant )/ DialogFlow
-*   MySQL, PostgreSQL
-*   Gin, Gia, Buffalo, Docker
+*   MySQL, PostgreSQL, MongoDB
+*   Gin, Gia, Buffalo, Docker & other
