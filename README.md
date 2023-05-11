@@ -18,5 +18,3 @@ Golang, WebXR, Flutter, C# & Unity developer (interactive experiences)
 *   Three.js / A-Frame
 *   Flutter / Dart
 *   Voice Assitants ( Yandex.Alice / Sber Salut / Google Assistant )/ DialogFlow
-*   MySQL, PostgreSQL, MongoDB
-*   Gin, Gia, Buffalo, Docker & other
