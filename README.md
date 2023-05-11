@@ -1,7 +1,7 @@
 [![Header](https://github.com/Marpa3D/Marpa3D/blob/main/assets/Marpa3D.gif)](https://marpa.su)
 
 # Hi, I'm Vacheslav 👋
-Golang, WebXR, Flutter, C# & Unity developer (interactive experiences)
+Golang, Rust, WebXR, Flutter, C# & Unity developer (interactive experiences)
 
 <p align='center'>
   <a href="https://t.me/Marpa3D">
