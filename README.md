@@ -9,11 +9,12 @@ Golang, Rust, WebXR, Flutter, C# & Unity developer (interactive experiences)
    </a>
    
 <p align='center'>
-   📫The good old e-mail:🙂 <a href='mailto:genesis@marpa.su'>genesis@marpa.su</a>
+   📫The good old e-mail:🙂 <a href='mailto:Marpa3d@yandex.ru'>Marpa3d@yandex.ru</a>
 </p>
 
 ## 🛠 Technical Stack
 *   Go / Rust
+*   1C
 *   C# / Unity
 *   Three.js / A-Frame
 *   Flutter / Dart
