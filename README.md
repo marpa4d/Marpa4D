@@ -17,5 +17,4 @@ Golang, Dart & Flutter, WebXR, C# & Unity developer (interactive experiences)
 *   Dart / Flutter
 *   C# / Unity
 *   Three.js / A-Frame
-*   Voice Assitants ( Yandex.Alice / Sber Salut / Google Assistant )/ DialogFlow
-*   1C
+*   Voice Assitants ( Yandex.Alice / Sber Salut / )/ DialogFlow
