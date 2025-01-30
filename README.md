@@ -1,7 +1,7 @@
 [![Header](https://github.com/marpa4d/Marpa3D/blob/main/assets/Marpa4D_GitHub.png)](https://laniakea.su)
 
 # Hi, I'm Vacheslav 👋
-Golang, Dart & Flutter, WebXR, C# & Unity developer (interactive experiences)
+Golang, WebXR, UE5 & Unity developer (interactive experiences)
 
 <p align='center'>
   <a href="https://t.me/Marpa3D">
@@ -14,7 +14,7 @@ Golang, Dart & Flutter, WebXR, C# & Unity developer (interactive experiences)
 
 ## 🛠 Technical Stack
 *   Go
-*   Dart / Flutter
+*   UE5
 *   C# / Unity
 *   Three.js / A-Frame
 *   Voice Assitants ( Yandex.Alice / Sber Salut / )/ DialogFlow
